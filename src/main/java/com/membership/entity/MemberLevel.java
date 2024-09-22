@@ -5,7 +5,7 @@ import lombok.Getter;
 
 /**
  * packageName    : com.membership.entity
- * fileName       : UserLevel
+ * fileName       : MemberLevel
  * author         : NAHAEJUN
  * date           : 2024-09-01
  * description    :
@@ -16,7 +16,7 @@ import lombok.Getter;
  */
 @AllArgsConstructor
 @Getter
-public enum UserLevel {
+public enum MemberLevel {
     LEVEL1("01","신입회원")
     , LEVEL2("02","일반회원")
     , LEVEL3("03","VIP회원");
