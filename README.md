@@ -6,3 +6,5 @@
 1. JAVA - JDK 17
 프레임워크
 1. Spring Boot - 3.3.3
+2. Spring.data.JPA
+3. 
